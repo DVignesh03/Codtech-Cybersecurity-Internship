@@ -1,6 +1,6 @@
 # Task 2: Web Application Vulnerability Scanner
 
-#### Description
+### Description
 
 This is a web application vulnerability scanner. It scans for common vulnerabilities like XSS and SQL injection. It is for security purpose only, and it works in that way only.
 

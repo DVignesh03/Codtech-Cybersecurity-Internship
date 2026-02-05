@@ -1,6 +1,6 @@
 # Task 1: File Integrity Checker
 
-#### Description:
+### Description:
 This is a File Integrity Checker which has 2 operation modes. 
 
 ### File Structure
